@@ -63,7 +63,7 @@ Textarea-Counter/
 
 ## 🚀 Live Demo
 
-> Coming soo (or update with GitHub Pages link once hosted)
+> (https://manjushree8.github.io/character-counter/)
 
 ## 💬 Feedback
 
