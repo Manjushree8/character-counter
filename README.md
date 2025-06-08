@@ -33,9 +33,9 @@
 Textarea-Counter/
 │
 ├── Screenshots/
-│   ├── homepage.jpg               # Full UI view
-│   ├── ResponsiveView.jpg         # Mobile view screenshot
-│   └── warningMessage.jpg         # Character limit warning display
+│   ├── (screenshots/homepage.png)               # Full UI view
+│   ├── (screenshots/responsive.png)         # Mobile view screenshot
+│   └── (screenshots/warning.png)        # Character limit warning display
 │
 ├── index.html                     # Main HTML structure
 ├── style.css                      # All styling rules
@@ -47,19 +47,19 @@ Textarea-Counter/
 
 ### 🖥 Home Page
 
-![Home Page](./Screenshots/homepage.jpg)
+![Home Page](screenshots/homepage.png) 
 
 ### 📱 Responsive View
 
-![Responsive View](./Screenshots/ResponsiveView.jpg)
+![Responsive View](screenshots/responsive.png) 
 
 ### ⚠ Warning Message
 
-![Warning Message](./Screenshots/warningMessage.jpg)
+![Warning Message](screenshots/warning.png)
 
 ## 👩‍💻 Author
 
-*Developed by:* [Karthiga P](https://github.com/KarthigaP20)
+*Developed by:* [Manjushree ]
 
 ## 🚀 Live Demo
 
@@ -68,8 +68,6 @@ Textarea-Counter/
 ## 💬 Feedback
 
 If you have ideas or find issues, feel free to open a PR or issue.
-Made with 💙 using *HTML, **CSS, and **JavaScript*.
+Made with using *HTML, **CSS, and **JavaScript*.
 
----
 
-Let me know if you want this in .md file format or want to change the style or tone!
