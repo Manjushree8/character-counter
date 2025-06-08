@@ -4,7 +4,7 @@
 
 ## 🌟 Features
 
-### ✨ Interactive UI
+###  Interactive UI
 
 * Clean and modern design
 * Smooth animation and styled input focus
@@ -63,7 +63,7 @@ Textarea-Counter/
 
 ## 🚀 Live Demo
 
-> Coming soon… (or update with GitHub Pages link once hosted)
+> Coming soo (or update with GitHub Pages link once hosted)
 
 ## 💬 Feedback
 
